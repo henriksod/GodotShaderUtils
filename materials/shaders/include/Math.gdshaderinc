@@ -1,4 +1,5 @@
 // Shader Utils for Godot - https://github.com/henriksod/GodotShaderUtils
+// Code inherited from https://github.com/SebLague/Solar-System
 
 const float maxFloat = 3.402823466e+38;
 
