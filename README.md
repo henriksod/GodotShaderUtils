@@ -6,6 +6,6 @@ The shader library files are under `materials/shaders/include`, with the `.gdsha
 
 # How do I include these in my shaders?
 Given that you just copy paste the `materials` folder to your project directory:
-```GLSL
+```C
 #include "res://materials/shaders/include/<FILE>.gdshaderinc"
 ```
